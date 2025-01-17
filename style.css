@@ -1,0 +1,47 @@
+.submit {
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main {
+    border: solid;
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 50%;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon {
+    height: 20px;
+}
+
+.bigicon {
+    height: 60px;
+}
+
+.submit {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 40%, rgba(0,212,255,1) 100%);
+    color: white;
+    border-radius: 20%;
+}
+
+.formulaire {
+    border-radius: 20%;
+    height: 50px;
+    width: 500px;
+    margin: 20px;
+}
